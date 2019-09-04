@@ -8,6 +8,10 @@ Create a node.js application which can serve contents of [store.csv](./store.csv
 
 API described below is not really something you would see in a real life, for sake of training there will be some illogical things.  
 
+### Deployment link
+
+https://shopping-cart-backend-eg.herokuapp.com/
+
 ### Setting Up
 
 You will need a new `npm` project, but make sure you include everything from this directory in your project.
